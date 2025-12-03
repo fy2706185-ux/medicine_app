@@ -1,0 +1,197 @@
+{
+    "fever": {
+        "keywords": ["fever", "bukhar", "high temperature", "temperature"],
+        "medicine": ["Paracetamol 500mg", "Panadol", "Tylenol"],
+        "precautions": ["Drink warm water", "Rest properly", "Avoid cold drinks"]
+    },
+    "cough": {
+        "keywords": ["cough", "khansi", "dry cough", "wet cough"],
+        "medicine": ["Cough Syrup", "Dextromethorphan", "Benylin"],
+        "precautions": ["Drink warm fluids", "Use humidifier", "Avoid cold air"]
+    },
+    "depression": {
+        "keywords": ["depression", "sadness", "low mood", "mental stress"],
+        "medicine": ["SSRIs", "Fluoxetine", "Sertraline"],
+        "precautions": ["Talk to a therapist", "Exercise regularly", "Sleep well"]
+    },
+    "cancer": {
+        "keywords": ["cancer", "tumor", "malignant", "carcinoma"],
+        "medicine": ["Consult Oncologist", "Chemotherapy", "Radiation Therapy"],
+        "precautions": ["Avoid smoking", "Healthy diet", "Regular check-ups"]
+    },
+    "headache": {
+        "keywords": ["headache", "migraine", "sir dard", "pain in head"],
+        "medicine": ["Paracetamol", "Ibuprofen", "Aspirin"],
+        "precautions": ["Drink water", "Rest in dark room", "Avoid stress"]
+    },
+    "cold": {
+        "keywords": ["cold", "nasal congestion", "runny nose", "sneezing"],
+        "medicine": ["Antihistamines", "Decongestant", "Nasal Spray"],
+        "precautions": ["Drink warm fluids", "Use tissues", "Rest properly"]
+    },
+    "diabetes": {
+        "keywords": ["diabetes", "sugar", "blood sugar", "hyperglycemia"],
+        "medicine": ["Insulin", "Metformin", "Glipizide"],
+        "precautions": ["Healthy diet", "Exercise regularly", "Monitor blood sugar"]
+    },
+    "hypertension": {
+        "keywords": ["high blood pressure", "hypertension", "blood pressure", "bp"],
+        "medicine": ["Amlodipine", "Losartan", "Hydrochlorothiazide"],
+        "precautions": ["Reduce salt intake", "Exercise regularly", "Monitor BP"]
+    },
+    "asthma": {
+        "keywords": ["asthma", "breathing difficulty", "wheezing", "chest tightness"],
+        "medicine": ["Albuterol", "Inhaler", "Montelukast"],
+        "precautions": ["Avoid allergens", "Use inhaler as prescribed", "Exercise carefully"]
+    },
+    "allergy": {
+        "keywords": ["allergy", "itching", "rash", "sneezing"],
+        "medicine": ["Antihistamines", "Loratadine", "Cetirizine"],
+        "precautions": ["Avoid allergens", "Use cream for rash", "Consult doctor if severe"]
+    },
+    "heart attack": {
+        "keywords": ["heart attack", "chest pain", "angina", "cardiac arrest"],
+        "medicine": ["Aspirin", "Nitroglycerin", "Consult Cardiologist"],
+        "precautions": ["Avoid stress", "Healthy diet", "Regular check-ups"]
+    },
+    "stroke": {
+        "keywords": ["stroke", "paralysis", "weakness", "face drooping"],
+        "medicine": ["Consult Neurologist", "Blood thinners", "Rehabilitation"],
+        "precautions": ["Control BP", "Healthy diet", "Regular exercise"]
+    },
+    "bronchitis": {
+        "keywords": ["bronchitis", "cough", "chest congestion", "phlegm"],
+        "medicine": ["Cough Syrup", "Antibiotics if bacterial", "Inhaler"],
+        "precautions": ["Avoid smoking", "Rest", "Drink fluids"]
+    },
+    "pneumonia": {
+        "keywords": ["pneumonia", "fever", "cough", "chest pain"],
+        "medicine": ["Antibiotics", "Paracetamol", "Consult doctor"],
+        "precautions": ["Rest", "Hydrate", "Avoid cold exposure"]
+    },
+    "anemia": {
+        "keywords": ["anemia", "iron deficiency", "weakness", "pale skin"],
+        "medicine": ["Iron supplements", "Vitamin B12", "Folic acid"],
+        "precautions": ["Eat iron-rich food", "Avoid excessive tea/coffee", "Regular check-ups"]
+    },
+    "arthritis": {
+        "keywords": ["arthritis", "joint pain", "inflammation", "swelling"],
+        "medicine": ["NSAIDs", "Pain relievers", "Consult Rheumatologist"],
+        "precautions": ["Exercise gently", "Avoid stress on joints", "Healthy diet"]
+    },
+    "obesity": {
+        "keywords": ["obesity", "overweight", "high bmi", "fat"],
+        "medicine": ["Diet plan", "Exercise", "Consult Nutritionist"],
+        "precautions": ["Balanced diet", "Regular exercise", "Monitor weight"]
+    },
+    "kidney stones": {
+        "keywords": ["kidney stones", "renal stones", "back pain", "urinary pain"],
+        "medicine": ["Painkillers", "Hydration", "Consult Urologist"],
+        "precautions": ["Drink lots of water", "Avoid excessive salt", "Healthy diet"]
+    },
+    "urinary tract infection": {
+        "keywords": ["uti", "urinary tract infection", "burning urination", "frequent urination"],
+        "medicine": ["Antibiotics", "Hydration", "Painkillers"],
+        "precautions": ["Drink water", "Maintain hygiene", "Consult doctor if severe"]
+    },
+    "gastroenteritis": {
+        "keywords": ["diarrhea", "vomiting", "stomach infection", "stomach pain"],
+        "medicine": ["ORS", "Antibiotics if bacterial", "Probiotics"],
+        "precautions": ["Hydrate", "Eat bland food", "Rest"]
+    },
+    "typhoid": {
+        "keywords": ["typhoid", "high fever", "weakness", "abdominal pain"],
+        "medicine": ["Antibiotics", "Paracetamol", "Hydration"],
+        "precautions": ["Drink clean water", "Avoid street food", "Rest properly"]
+    },
+    "hepatitis": {
+        "keywords": ["hepatitis", "jaundice", "yellow skin", "liver infection"],
+        "medicine": ["Antivirals", "Supportive care", "Consult doctor"],
+        "precautions": ["Avoid alcohol", "Healthy diet", "Vaccination if needed"]
+    },
+    "migraine": {
+        "keywords": ["migraine", "headache", "aura", "nausea"],
+        "medicine": ["Painkillers", "Triptans", "Consult Neurologist"],
+        "precautions": ["Avoid triggers", "Rest", "Stay hydrated"]
+    },
+    "insomnia": {
+        "keywords": ["insomnia", "sleeplessness", "difficulty sleeping", "sleep disorder"],
+        "medicine": ["Melatonin", "Sleep hygiene", "Consult doctor"],
+        "precautions": ["Regular sleep schedule", "Avoid screens before bed", "Relaxation exercises"]
+    },
+    "anxiety": {
+        "keywords": ["anxiety", "nervousness", "worry", "panic"],
+        "medicine": ["SSRIs", "Therapy", "Beta-blockers if severe"],
+        "precautions": ["Exercise", "Meditation", "Talk to therapist"]
+    },
+    "bronchial asthma": {
+        "keywords": ["asthma", "wheezing", "coughing", "shortness of breath"],
+        "medicine": ["Inhaler", "Steroids", "Montelukast"],
+        "precautions": ["Avoid allergens", "Use inhaler", "Exercise carefully"]
+    },
+    "eczema": {
+        "keywords": ["eczema", "skin rash", "itching", "dry skin"],
+        "medicine": ["Moisturizers", "Topical steroids", "Antihistamines"],
+        "precautions": ["Avoid allergens", "Moisturize skin", "Consult dermatologist"]
+    },
+    "psoriasis": {
+        "keywords": ["psoriasis", "scaly skin", "red patches", "itching"],
+        "medicine": ["Topical creams", "Phototherapy", "Systemic medications"],
+        "precautions": ["Moisturize", "Avoid stress", "Healthy diet"]
+    },
+    "allergic rhinitis": {
+        "keywords": ["allergy", "sneezing", "runny nose", "nasal congestion"],
+        "medicine": ["Antihistamines", "Nasal spray", "Decongestants"],
+        "precautions": ["Avoid allergens", "Keep environment clean", "Consult doctor if severe"]
+    },
+    "sinusitis": {
+        "keywords": ["sinusitis", "sinus infection", "headache", "facial pain"],
+        "medicine": ["Decongestants", "Antibiotics if bacterial", "Pain relievers"],
+        "precautions": ["Stay hydrated", "Steam inhalation", "Consult doctor if persistent"]
+    },
+    "otitis media": {
+        "keywords": ["ear infection", "otitis", "ear pain", "hearing loss"],
+        "medicine": ["Antibiotics", "Painkillers", "Ear drops"],
+        "precautions": ["Avoid water in ear", "Consult doctor", "Rest"]
+    },
+    "tonsillitis": {
+        "keywords": ["tonsillitis", "sore throat", "swollen tonsils", "throat pain"],
+        "medicine": ["Antibiotics", "Painkillers", "Warm salt water gargle"],
+        "precautions": ["Rest", "Hydrate", "Avoid irritants"]
+    },
+    "gout": {
+        "keywords": ["gout", "joint pain", "uric acid", "swelling"],
+        "medicine": ["NSAIDs", "Colchicine", "Allopurinol"],
+        "precautions": ["Avoid purine-rich food", "Hydrate", "Exercise gently"]
+    },
+    "hypothyroidism": {
+        "keywords": ["hypothyroidism", "low thyroid", "fatigue", "weight gain"],
+        "medicine": ["Levothyroxine", "Regular check-ups"],
+        "precautions": ["Balanced diet", "Regular exercise", "Monitor thyroid levels"]
+    },
+    "hyperthyroidism": {
+        "keywords": ["hyperthyroidism", "high thyroid", "weight loss", "palpitations"],
+        "medicine": ["Antithyroid drugs", "Beta blockers", "Consult endocrinologist"],
+        "precautions": ["Regular monitoring", "Avoid stress", "Healthy diet"]
+    },
+    "obstructive sleep apnea": {
+        "keywords": ["sleep apnea", "snoring", "daytime sleepiness", "breathing problem"],
+        "medicine": ["CPAP machine", "Weight management", "Consult doctor"],
+        "precautions": ["Maintain healthy weight", "Sleep on side", "Avoid alcohol before bed"]
+    },
+    "chickenpox": {
+        "keywords": ["chickenpox", "pox", "rash", "itching"],
+        "medicine": ["Calamine lotion", "Antihistamines", "Paracetamol"],
+        "precautions": ["Avoid scratching", "Rest", "Stay hydrated"]
+    },
+    "measles": {
+        "keywords": ["measles", "rash", "fever", "koplik spots"],
+        "medicine": ["Supportive care", "Paracetamol", "Consult doctor"],
+        "precautions": ["Vaccination", "Hydrate", "Rest"]
+    },
+    "mumps": {
+        "keywords": ["mumps", "swollen glands", "fever", "pain in jaw"],
+        "medicine": ["Pain relievers", "Hydration", "Rest"],
+        "precautions": ["Vaccination", "Avoid sharing utensils", "Rest"]
+    }
+}
